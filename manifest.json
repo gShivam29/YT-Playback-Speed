@@ -1,6 +1,23 @@
 {
-    "name": "YT Playback Speed",
-    "version": "0.0.1",
     "manifest_version": 3,
-    "permissions": ["scripting", "activeTab", "storage"]
-}
+    "name": "YT playback speed",
+    "version": "1.0",
+    "description": "Automatically sets playback speed for videos.",
+    "permissions": ["storage"],
+    "content_scripts": [
+      {
+        "matches": ["https://www.youtube.com/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+  }
+  
