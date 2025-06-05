@@ -1,6 +1,6 @@
 # 🎬 YouTube Default Playback Speed - Chrome Extension
 
-Tired of changing the playback speed of every video to 2x? Or tired of watching boring shorts at 1x speed? Presenting to you a lightweight Chrome extension that automatically sets your preferred default playback speed for all YouTube videos — no more manual speed adjustments every time you watch a video.
+Tired of changing the playback speed of every video to 2x? Or tired of watching boring shorts at 1x speed? Presenting to you a lightweight Chrome extension that automatically sets your preferred default playback speed for all YouTube videos. No more manual speed adjustments every time you watch a video.
 
 ---
 
