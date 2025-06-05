@@ -38,6 +38,6 @@ Tired of changing the playback speed of every video to 2x? Or tired of watching 
    - Click **"Load unpacked"**
    - Select the extension folder
 
-4. **Done!** Open YouTube — the playback speed will be set automatically.
+4. **Done!** Open YouTube, the playback speed will be set automatically.
 
 ---
